@@ -1,0 +1,32 @@
+Aula#12 - Condições Aninhadas
+    Com as condições aninhadas podemos definir masi de dois paremetros para uma condição (if).
+    Atraves delas podemos incluir uma condição ou condições dentro de uma das variáveis de uma condição pré-existentes.
+    São compostas por 'if', 'elif' e 'else'.
+    Sempre começa com if e o else é opcional.
+        **Podemos alimentar as variáveis a partir das condições.
+        ***datetime.date pode levar as classes .year, .day ou .month ao final para separar o valro pretendido.
+            Ex.datetime.date.today().year > para retornar apenas o Ano respectivo.
+
+** para eliminar a tabulação no printo utilizamos ,end = '' ao final da string.
+
+Aula#13 - Laços de Repetições [Pt1]
+    Iniciando com a estrutura mais simples dentre as existentes, o laço com variavel de controle.
+        Ex. Teórico: laçocnointervalo(1,10)
+    Esses comandos levam identação.
+        Ex.: for c in range(1,10): 
+                passo
+            pega
+* A grafia de cálculo de variaveis iguais pode ser das seguintes formas:
+        var = var + 1
+        var += 1
+    
+
+
+Aula#15 - Interrompendo repetições WHILE:
+    Utilizasse a função break para interromper as repetições while caso sejam infinitas.
+        while True:
+            num = int
+            break
+    fstrings _ disponível após a versão 3.6
+    adciona-se f antes da string para interpolar o valor do objeto dentro das chaves.
+        print(f'{fulano} tem 33 anos.')
