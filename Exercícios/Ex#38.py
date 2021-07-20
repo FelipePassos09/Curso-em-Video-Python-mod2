@@ -16,3 +16,4 @@ elif nm1 > nm2:
 elif nm1 < nm2:
     print('\033[34mO segundo número é maior que o primeiro.')
     print('{} > {}2'.format(nm2, nm1),'\033[m')
+    

@@ -9,3 +9,5 @@ while True:
 print('A soma dos números é {}.'.format(s)) # Usando format
 print(f'A soma dos números é {s}.') # Usando fstrings
 
+
+

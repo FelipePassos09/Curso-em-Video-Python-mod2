@@ -6,3 +6,5 @@ while valor in ('s','S'):
   [S] - SIM
   [N] - NÃO
   ''').strip().lower()
+  
+  

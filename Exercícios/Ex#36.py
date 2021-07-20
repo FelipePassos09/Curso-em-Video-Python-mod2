@@ -23,3 +23,4 @@ else:
     print('A parcela será de R$ {:.2f}, e isso representa {:.0f}% da sua renda.'.format(parcela,percentual_renda),'\033[m')
     
 print('\n')
+
